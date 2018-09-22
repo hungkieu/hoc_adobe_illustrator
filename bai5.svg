@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#FFFFFF" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" d="M26.87,26.518
+	c0,5.661-5.035,5.748-10.696,5.748c-5.661,0-9.805-0.087-9.805-5.748s6.43-11.127,10.25-11.127
+	C19.236,15.391,26.87,20.856,26.87,26.518z"/>
+<circle fill="#FF0000" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="12.892" cy="21.922" r="1.594"/>
+<circle fill="#FFFFFF" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="13.408" cy="21.594" r="0.516"/>
+<circle fill="#FF0000" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="21.267" cy="22.109" r="1.594"/>
+<circle fill="#FFFFFF" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="21.783" cy="21.781" r="0.516"/>
+<ellipse fill="#FF0000" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="17.177" cy="25.828" rx="1.902" ry="0.719"/>
+<ellipse fill="#FFFFFF" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" cx="17.418" cy="25.828" rx="0.713" ry="0.326"/>
+<path fill="#FF0000" stroke="#FF0000" stroke-width="0.25" stroke-miterlimit="10" d="M20.637,29.404
+	c0,0.518-1.441,0.938-3.219,0.938s-3.219-0.419-3.219-0.938s1.441,0.063,3.219,0.063S20.637,28.886,20.637,29.404z"/>
+<g>
+	<path fill="#FF0000" d="M38.906,26.878V3.66c0-1.094-0.489-1.094-1.094-1.094s-1.094,0.25-1.094,1.094v23.219H38.906z"/>
+	<path fill="#FFE1E1" d="M37.813,2.566c-0.604,0-1.094,0.25-1.094,1.094v23.219h1.094V2.566z"/>
+	<path fill="#FF9696" d="M38.313,26.878V3.66c0-1.094-0.224-1.094-0.5-1.094s-0.5,0.25-0.5,1.094v23.219H38.313z"/>
+</g>
+<polygon fill="#C87D7D" points="36.749,26.878 37.828,31.847 38.906,26.878 "/>
+<polygon fill="#C8E1E1" points="37.828,26.878 36.749,26.878 37.828,31.847 "/>
+<polygon fill="#C8AFAF" points="37.265,26.878 37.828,31.847 38.391,26.878 "/>
+<polygon points="37.694,31.229 37.828,31.847 37.962,31.229 "/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="34.219" y="1.531" width="6.688" height="5.219"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<path fill="#643200" d="M38.906,26.878V3.66c0-1.094-0.489-1.094-1.094-1.094s-1.094,0.25-1.094,1.094v23.219H38.906z"/>
+		<path fill="#646464" d="M37.813,2.566c-0.604,0-1.094,0.25-1.094,1.094v23.219h1.094V2.566z"/>
+		<path fill="#644B4B" d="M38.313,26.878V3.66c0-1.094-0.224-1.094-0.5-1.094s-0.5,0.25-0.5,1.094v23.219H38.313z"/>
+	</g>
+</g>
+<rect x="36.281" y="6.375" fill="#FFFFFF" width="3.5" height="0.375"/>
+</svg>
