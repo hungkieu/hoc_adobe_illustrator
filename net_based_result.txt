@@ -1,0 +1,1 @@
+Network ID	No.Nodes	No.Edges	sRobustness	rRobustness	No.Modules	Modularity	sInModuleR	rInModuleR	sOutModuleR	rOutModuleR
